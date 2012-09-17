@@ -1,1 +1,1 @@
-Dit is een eerste test voor push van dit bestand naar github
+Dit is een eerste test voor push van dit bestand naar github.
